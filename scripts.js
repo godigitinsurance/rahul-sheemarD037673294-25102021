@@ -1,4 +1,4 @@
-$("#customerName").text("Rahul Sheemar");
+$("#customerName").text("Rahul Sheehmar");
 $("#policyNumber").text("D037673294 / 25102021");
 $("#startDate").text("25-Oct-2021");
 $("#endDate").text("24-Oct-2022");
